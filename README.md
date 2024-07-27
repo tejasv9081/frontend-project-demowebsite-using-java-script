@@ -1,5 +1,5 @@
-<h1>Cynthia Ugwu Portfolio Website</h1>
-Welcome to Cynthia Ugwu's Portfolio Website!
+<h1>Random Portfolio Website</h1>
+Welcome to Portfolio Website!
 
 <h1>Overview</h1>
 This project is a personal portfolio website for Cynthia Ugwu, a talented product designer based in Toronto. The website showcases Cynthia's work, provides information about her background and experience, and offers a way for visitors to get in touch with her.
@@ -22,11 +22,8 @@ Clone the repository to your local machine:
 Feel free to explore the website and interact with its various sections. Click on portfolio items to see more details about each project. Use the contact form to send a message to Cynthia.
 
 <h1>Contributing</h1>
-This project is a personal portfolio website for Cynthia Ugwu and is not open for contributions. However, feedback and suggestions are always welcome!
+This project is a personal portfolio website. However, feedback and suggestions are always welcome!
 
-<h1>Credits</h1>
-Design and development by Cynthia Ugwu
-Images and content provided by Cynthia Ugwu
 <h1>License</h1>
 This project is licensed under the MIT License - see the LICENSE file for details.
 <b>>This project is been created by Tejasv Goyal a Frontend developer using the javaScript and some crazy animation.
